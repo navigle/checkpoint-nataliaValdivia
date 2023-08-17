@@ -1,0 +1,17 @@
+pwd
+git init
+git config user.name
+git config user.name.email
+git remote add origin
+touch
+git add .
+git commit -m
+git push origin
+git status
+git branch
+git checkout 
+mkdir
+cd
+cd .. 
+mv 
+ls
